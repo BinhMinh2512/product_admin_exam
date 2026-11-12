@@ -1,0 +1,16 @@
+[
+  {
+    "id": "cy97IahLR6EavaPRov7q",
+    "image": "https://res.cloudinary.com/q4i1acqo/image/upload/v1794474492/dvle38rt8dh4kcnx7b93.jpg",
+    "price": 160000,
+    "name": "Set Sơ Mi Công Sở",
+    "soluong": 20
+  },
+  {
+    "id": "vXQwwIpyVXjQRhyA7Li0",
+    "name": "Áo Thun nữ",
+    "price": 15000,
+    "soluong": 10,
+    "image": "https://res.cloudinary.com/q4i1acqo/image/upload/v1794383619/yu9vudgwanzadrjbtxy7.jpg"
+  }
+]
