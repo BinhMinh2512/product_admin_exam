@@ -1,17 +1,11 @@
-# product_admin_exam
+Flutter, Dart: Xây dựng giao diện và chức năng ứng dụng.
 
-A new Flutter project.
+Firebase Authentication: Xác thực tài khoản đăng nhập.
 
-## Getting Started
+Cloud Firestore: Lưu trữ và quản lý dữ liệu sản phẩm.
 
-This project is a starting point for a Flutter application.
+Cloudinary: Lưu trữ hình ảnh sản phẩm.
 
-A few resources to get you started if this is your first Flutter project:
+Image Picker: Chọn hình ảnh từ thiết bị.
 
-- [Learn Flutter](https://docs.flutter.dev/get-started/learn-flutter)
-- [Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Flutter learning resources](https://docs.flutter.dev/reference/learning-resources)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Node.js, Firebase Admin SDK: Hỗ trợ xuất dữ liệu từ Firestore ra file JSON.
